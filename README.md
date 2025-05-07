@@ -1,10 +1,9 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 </h1> 
 
-- I’m currently a PhD student at <a href="https://phd-ai-society.di.unipi.it/students/andrea-rafanelli/">UniPi</a> 🔭
-- My research work is mainly focused on the Neuro-Symbolic aspect of Artificial Intelligence, i.e the combination of Machine Learning models with logic-symbolic knowledge. 🧠
-- I would like to tackle problems with a positive social impact with AI (AI4PEOPLE/AI4GOOD). 
-- 💬 You can contact me on: <a href="https://outlook.office365.com/mail/u/0/?to=andrea.rafanelli%40phd.unipi.it&subject=Hey"> My email</a>
+- I’m currently a Postdoc Researcher at <a href="https://www.amsterdamumc.nl/nl.htm">Amsterdam UMC</a> 🔭
+- I like to tackle problems with a positive social impact with AI (AI4PEOPLE/AI4GOOD). 
+- 💬 You can contact me on: <a href="https://outlook.office365.com/mail/u/0/?to=a.rafanelli%40amsterdamumc.nl&subject=Hey"> My email</a>
 
 
 <h4><b>Languages and tools that I mostly use:</b></h4>
