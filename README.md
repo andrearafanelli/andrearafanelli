@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 </h1> 
 
-- I’m currently a Postdoc Researcher at <a href="https://www.amsterdamumc.nl/nl.htm">Amsterdam UMC</a> 🔭
+- I’m currently a Postdoctoral Researcher at <a href="https://www.amsterdamumc.nl/nl.htm">Amsterdam UMC</a> 🔭
 - I like to tackle problems with a positive social impact with AI (AI4PEOPLE/AI4GOOD). 
 - 💬 You can contact me on: <a href="https://outlook.office365.com/mail/u/0/?to=a.rafanelli%40amsterdamumc.nl&subject=Hey"> My email</a>
 
